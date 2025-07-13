@@ -1,11 +1,11 @@
 name: The First WorkFlow
   on: 
     push: 
-      bransh:
+      branshes:
         - main
   jobs:
     example job:
-      run on: ubuntu latest
+      run-on: ubuntu latest
 
 
       steps:
