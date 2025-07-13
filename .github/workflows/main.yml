@@ -10,5 +10,5 @@ name: The First WorkFlow
 
       steps:
         name: print a welcome message
-        run: welcome to the first workfloe in github action
+        run: echo"welcome to the first workfloe in github action
         
